@@ -1,0 +1,16 @@
+<html>
+<title>
+<h1><central Position><Plan Right>
+</Title>
+<Head>
+<BG> <Green> Welcome to PlanRight<br>
+</head>
+<body>
+<strong><em>Thanks for Choosing 🌱 Plan Rite</em>
+Here are some of the Top needy job that we can list it out for you.
+Your Preferences our Happiness
+</body>
+<Button>
+Preview Review
+</Button>
+</html>
